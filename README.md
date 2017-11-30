@@ -1,5 +1,4 @@
 # 简介
-**世界之窗** 为你敞开
 
 **世界之窗**是一款优质的*个人代理*工具，提供一种科学上网的方法。
 
@@ -69,6 +68,8 @@
 如果你觉得自己和作者一样是一个重度依赖者，觉得自己需要一个这样的工具，欢迎邮件联系：worldwindow9@gmail.com。作者会带你一起愉快的遨游于互联网的海洋中。
 
 # 下载地址
+
+**🔴**[世界之窗下载地址](https://github.com/WindowOfTheWorld/TheWorld/releases/tag/世界之窗最新版)**🔴**
 
 联系：worldwindow9@gmail.com
 
